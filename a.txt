@@ -12,4 +12,8 @@ qegasfva
 fbasgasb
 tom rash
 123
+<<<<<<< HEAD
 haba haba
+=======
+bla bla
+>>>>>>> stam
