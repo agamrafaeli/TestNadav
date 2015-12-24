@@ -17,3 +17,5 @@ haba haba
 =======
 bla bla
 >>>>>>> stam
+asdfasdfasdfzxcvawfasdf >> a.txt
+
